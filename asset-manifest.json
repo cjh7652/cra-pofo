@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/cra-pofo/static/js/main.3d91e08a.js",
+    "index.html": "/cra-pofo/index.html",
+    "main.3d91e08a.js.map": "/cra-pofo/static/js/main.3d91e08a.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.3d91e08a.js"
+  ]
+}
